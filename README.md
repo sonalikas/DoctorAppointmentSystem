@@ -3,7 +3,7 @@
 
 
 ## clone it..<br>
-git clone https://github.com/sonalikas/SONAsopify.git 
+git clone https://github.com/sonalikas/DoctorAppointmentSystem.git
 
 Start Eclipse.<br>
 
